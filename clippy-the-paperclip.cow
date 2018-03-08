@@ -1,0 +1,18 @@
+# Clippy 
+# via seznam email scli
+$the_cow = <<EOC;
+   $thoughts     
+    $thoughts __ 
+     /  \\  
+    ~    ~ 
+   / \\  /_\\
+   \\o/  \\o/
+    |    | 
+    ||   |/
+    ||   ||
+    ||   ||
+    | \\_/ |
+    \\     /
+     \\___/  
+
+EOC
